@@ -2,7 +2,7 @@
 @import url(./fonts.css);
 .header {
     width: 100%;
-    background-image: url(../image/img.png);
+    background-image: url(image/img.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -178,7 +178,7 @@
     height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../image/img1.png);
+    background-image: url(image/img1.png);
 }
 
 .step2 {
@@ -186,7 +186,7 @@
     height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../image/img2.png);
+    background-image: url(image/img2.png);
 }
 
 .step3 {
@@ -194,7 +194,7 @@
     height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../image/img3.png);
+    background-image: url(image/img3.png);
 }
 
 .rectang1 {
@@ -455,7 +455,7 @@
     color: #FFFFFF;
     height: 310px;
     width: 300px;
-    background-image: url(../image/Sport.png);
+    background-image: url(image/Sport.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -471,7 +471,7 @@
     margin-left: 20px;
     height: 310px;
     width: 300px;
-    background-image: url(../image/Healath.png);
+    background-image: url(image/Healath.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -487,7 +487,7 @@
     margin-left: 20px;
     height: 310px;
     width: 300px;
-    background-image: url(../image/Extreme.png);
+    background-image: url(image/Extreme.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -503,7 +503,7 @@
     margin-top: 20px;
     height: 310px;
     width: 300px;
-    background-image: url(../image/Games.png);
+    background-image: url(image/Games.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -520,7 +520,7 @@
     margin-left: 20px;
     height: 310px;
     width: 620px;
-    background-image: url(../image/Culture.png);
+    background-image: url(image/Culture.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -536,7 +536,7 @@
     margin-top: 20px;
     height: 310px;
     width: 620px;
-    background-image: url(../image/Relaxation.png);
+    background-image: url(image/Relaxation.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -553,7 +553,7 @@
     margin-left: 20px;
     height: 310px;
     width: 300px;
-    background-image: url(../image/Travelling.png);
+    background-image: url(image/Travelling.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
